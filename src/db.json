@@ -1,0 +1,50 @@
+{
+  "user": [
+    {
+      "id": "f105",
+      "name": "Harsha",
+      "phone": "7418529630",
+      "email": "harshachaudhary235@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "d622",
+      "name": "harsha2",
+      "phone": "phone2",
+      "email": "email2",
+      "password": "poiuqewr"
+    },
+    {
+      "id": "a3e3",
+      "name": "harsha2",
+      "phone": "phone2",
+      "email": "email2@gmail.com",
+      "password": "poiuqewr"
+    },
+    {
+      "id": "cfa3",
+      "name": "anand",
+      "phone": "1234",
+      "email": "4321@4321.1234",
+      "password": "-891234"
+    },
+    {
+      "id": "aa8f",
+      "name": "Krishna Bakshi",
+      "phone": "89754654321",
+      "email": "krishnakrishan@gmail.com",
+      "password": "qwerty"
+    }
+  ],
+  "newdata": [
+    {
+      "id": "205f",
+      "name": "harsha"
+    },
+    {
+      "id": "4ad6",
+      "name": "Harsha"
+    }
+  ],
+  "nextone": []
+}
